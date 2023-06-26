@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to DEFIX NETWORK](README.md)
+* [👋 Welcome to DEFIX NETWORK22](README.md)
 
 ## Overview
 
